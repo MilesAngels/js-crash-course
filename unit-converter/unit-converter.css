@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1c1c1c;
+}
+
+/*************** typography ***************/
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+h1 {
+    position: absolute;
+    width: 448.4px;
+    height: 38px;
+    left: 51px;
+    top: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 38px;
+    color: #FFF;
+}
+
+
+/*************** container ***************/
+.container{
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    background-color: #1F2937;
+    border-radius: 10px;
+}
+
+/*************** section ***************/
+.section{
+    position: absolute;
+    width: 550px;
+    height: 260px;
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.convert {
+    position: absolute;
+    width: 221px;
+    height: 51.23px;
+    left: 169px;
+    top: 50px;
+    font-family: "Inter", sans-serif;
+    font-weight: 800;
+    font-size: 90px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFF;
+}
+
+.support-text1 {
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 280px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFF;
+}
+
+.support-text2 {
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 310px;
+    font-family: "Inter", sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #D2D2D2;
+}
+
+.support-text3 {
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 360px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFF;
+}
+
+.support-text4 {
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 390px;
+    font-family: "Inter", sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #D2D2D2;
+}
+
+.support-text5 {
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 440px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFF;
+}
+
+.support-text6 {
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 470px;
+    font-family: "Inter", sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #D2D2D2;
+}
